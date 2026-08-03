@@ -1,0 +1,2 @@
+# eddi-notifier-workers-guide-p
+エッヂ掲示板および一部の5ch板の新着スレッドを監視し、指定したキーワードに一致したスレッドをDiscordへ通知するサービスです。
