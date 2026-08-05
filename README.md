@@ -6,7 +6,7 @@ Google Apps Script版の[acan3xt/eddi-notifier-gas](https://github.com/acan3xt/e
 
 ## URL
 
-## <https://eddi-notifier.acanendo.workers.dev/>
+# <https://notify.eddier.party/>
 
 ## 特徴
 
