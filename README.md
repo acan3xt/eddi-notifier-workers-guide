@@ -187,4 +187,4 @@ CAPTCHAを確認後、20桁のアカウント番号が自動で発行され、�
 
 ## 問い合わせ
 
-お問い合わせは、[eddi-notifierの問い合わせフォーム](https://eddi-notifier.acanendo.workers.dev/)からお願いします。
+お問い合わせは、[eddi-notifierの問い合わせフォーム](https://notify.eddier.party/)からお願いします。
