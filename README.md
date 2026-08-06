@@ -1,6 +1,6 @@
 # eddi-notifier | エッヂャーアラート
 
-[エッヂ掲示板](https://bbs.eddibb.cc/)および一部の5ch板の新着スレッドを監視し、指定したキーワードに一致したスレッドをWeb PushまたはDiscordへ通知するサービスです。
+エッヂ掲示板および一部の5ch板の新着スレッドを監視し、指定したキーワードに一致したスレッドをWeb PushまたはDiscordへ通知するサービスです。
 
 Google Apps Script版の[acan3xt/eddi-notifier-gas](https://github.com/acan3xt/eddi-notifier-gas)を、Cloudflare Workers向けに移植・拡張しています。
 
