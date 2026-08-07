@@ -48,6 +48,9 @@ Google Apps Script版の[acan3xt/eddi-notifier-gas](https://github.com/acan3xt/e
 - 設定変更の未保存表示
 - ライト・ダーク・自動テーマ
 
+
+<img src="https://guide-assets.eddier.party/guide/pc1.png" width="800">
+
 ## 対応掲示板
 
 現在、以下の掲示板に対応しています。
@@ -129,6 +132,8 @@ iPhone・iPadでは、Safariでeddi-notifierを開き、ホーム画面へWebア
 
 [iPhone・iPadでWebサイトをホーム画面に追加する方法（Apple公式）](https://support.apple.com/ja-jp/guide/iphone/iphea86e5236/ios)
 
+<img src="https://guide-assets.eddier.party/guide/ip_notify.PNG" width="300">
+
 #### Discord Webhook通知
 
 通知を受け取りたいDiscordチャンネルで、Webhook URLを作成します。
@@ -147,6 +152,8 @@ iPhone・iPadでは、Safariでeddi-notifierを開き、ホーム画面へWebア
 
 
 保存済みのWebhook URLは、設定画面から削除できます。削除するとDiscord通知もOFFになります。
+
+<img src="https://guide-assets.eddier.party/guide/disco01.jpg" width="300">
 
 ### 3. 通知キーワードを設定する
 
@@ -268,6 +275,12 @@ CHC@@100
 Web Pushのみ、Discordのみ、または両方を有効にできます。
 
 Discord通知を有効にする場合は、Discord Webhook URLの設定が必要です。
+
+<img src="https://guide-assets.eddier.party/guide/cushion.PNG" width="300">
+
+Web Push通知を開くと表示されるクッションページです。
+
+元スレまたはkyodemoを開いたり、各URLをコピーしたりできます。
 
 ### 8. 通知を有効にして保存する
 
